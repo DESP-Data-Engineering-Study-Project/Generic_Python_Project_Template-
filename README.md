@@ -1,4 +1,4 @@
-# generic-python-project-template
+# Generic-Python-Project-Template
 generic-python-project-template
 
 ## STEPS -
